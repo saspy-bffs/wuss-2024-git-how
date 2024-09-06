@@ -9,6 +9,8 @@
 Materials provided:
 
   - [Examples and Exercises](https://colab.research.google.com/drive/1ZL4_U53ybvo7Dc7UcDfalSyFelr2YLN-#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+    
+  - [Examples and Exercises](slides/Notebook-Git_HOW-WUSS2024.pdf) as a PDF file
 
   - [Slides](slides/Slides-Git_HOW-WUSS2024.pdf) as a PDF file
 
